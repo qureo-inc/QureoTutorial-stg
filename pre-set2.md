@@ -7,7 +7,7 @@
 
 ``||agent.エージェントに前へおかせる||``ブロックと``||agent.エージェントを前に1ブロックいどうさせる||``ブロックとくみあわせてエージェントにブロックをおいてもらおう！うごいてからブロックをおくからどっちのブロックをうえにするかな？
 
-そのあとみぎしたの![](https://raw.githubusercontent.com/camp-minecraft/TechkidsCampTutorial/master/images/playbutton.png)をおしたらプログラムがうごくよ！
+そのあとみぎしたの![](https://raw.githubusercontent.com/qureo-inc/QureoTutorial/main/images/playbutton.png)をおしたらプログラムがうごくよ！
 
 ```ghost
 hiragana_agent.place(FORWARD)

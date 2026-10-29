@@ -7,7 +7,7 @@
 
 こんかいは``||agent.エージェントに〇へおかせる|``ブロックをつかうよ！
 
-みぎしたの![](https://raw.githubusercontent.com/camp-minecraft/TechkidsCampTutorial/master/images/playbutton.png)をおしたあと、tキーをおしてrunといれてプログラムをうごかしてみよう！
+みぎしたの![](https://raw.githubusercontent.com/qureo-inc/QureoTutorial/main/images/playbutton.png)をおしたあと、tキーをおしてrunといれてプログラムをうごかしてみよう！
 
 ```template
 player.onChat("run", function () {

@@ -5,7 +5,7 @@
 
 ## エージェントをうごかしてみよう！
 
-みぎしたの![](https://raw.githubusercontent.com/camp-minecraft/TechkidsCampTutorial/master/images/playbutton.png)をおそう！
+みぎしたの![](https://raw.githubusercontent.com/qureo-inc/QureoTutorial/main/images/playbutton.png)をおそう！
 
 ```template
 player.onChat("run", function () {
