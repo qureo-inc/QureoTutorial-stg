@@ -2,7 +2,7 @@
 
 ## エージェントにゴミをこわしてもらおう！
 
-みぎしたの![](https://raw.githubusercontent.com/camp-minecraft/TechkidsCampTutorial/master/images/playbutton.png)をおしたあと、tキーをおしてrunをいれてプログラムをうごかしてみよう！
+みぎしたの![](https://raw.githubusercontent.com/qureo-inc/QureoTutorial/main/images/playbutton.png)をおしたあと、tキーをおしてrunをいれてプログラムをうごかしてみよう！
 
 ```ghost
 player.onChat("run", function () {

@@ -2,7 +2,7 @@
 
 ## エージェントをうごかしてみよう！
 
-みぎしたの![](https://raw.githubusercontent.com/camp-minecraft/TechkidsCampTutorial/master/images/playbutton.png)をおしたあと、tキーをおしてrunをいれてプログラムをうごかしてみよう！
+みぎしたの![](https://raw.githubusercontent.com/qureo-inc/QureoTutorial/main/images/playbutton.png)をおしたあと、tキーをおしてrunをいれてプログラムをうごかしてみよう！
 
 ```template
 player.onChat("run", function () {

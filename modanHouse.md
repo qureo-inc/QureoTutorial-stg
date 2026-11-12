@@ -4,7 +4,7 @@
 
 プログラムはすでにかんせいしているからうごかすだけだよ！
 
-そのあとみぎしたの![](https://raw.githubusercontent.com/camp-minecraft/TechkidsCampTutorial/master/images/playbutton.png)をおしたらプログラムがうごくよ！
+そのあとみぎしたの![](https://raw.githubusercontent.com/qureo-inc/QureoTutorial/main/images/playbutton.png)をおしたらプログラムがうごくよ！
 
 ```ghost
     hiragana_agent.move(FORWARD, 3)

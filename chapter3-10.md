@@ -9,7 +9,7 @@
 ``||agent.エージェントに前をはかいさせる||``ブロックをつかうよ！
 ほうこうをえらんで、エージェントがどのほうこうのブロックをはかいするかきめよう！
 
-みぎしたの![](https://raw.githubusercontent.com/camp-minecraft/TechkidsCampTutorial/master/images/playbutton.png)をおしたあと、tキーをおしてrunといれてプログラムをうごかしてみよう！
+みぎしたの![](https://raw.githubusercontent.com/qureo-inc/QureoTutorial/main/images/playbutton.png)をおしたあと、tキーをおしてrunといれてプログラムをうごかしてみよう！
 
 
 

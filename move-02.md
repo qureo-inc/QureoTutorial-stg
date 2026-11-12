@@ -9,7 +9,7 @@
 
 そしたらしろいところをクリックしてすきなすうじをいれたらそのぶんエージェントがまえにすすむよ！
 
-さいごにみぎしたの![](https://raw.githubusercontent.com/camp-minecraft/TechkidsCampTutorial/master/images/playbutton.png)をおしてプログラムをうごかしてみよう！
+さいごにみぎしたの![](https://raw.githubusercontent.com/qureo-inc/QureoTutorial/main/images/playbutton.png)をおしてプログラムをうごかしてみよう！
 
 ```ghost
 hiragana_agent.move(FORWARD, 1)

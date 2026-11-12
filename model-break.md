@@ -5,7 +5,7 @@
 
 ## エージェントをうごかしてみよう！
 
-みぎしたの![](https://raw.githubusercontent.com/camp-minecraft/TechkidsCampTutorial/master/images/playbutton.png)をおしてプログラムをうごかしてみよう！
+みぎしたの![](https://raw.githubusercontent.com/qureo-inc/QureoTutorial/main/images/playbutton.png)をおしてプログラムをうごかしてみよう！
 
 ```template
 hiragana_agent.destroy(FORWARD)
